@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cd $PREFIX/share && cd Termux-Lock &&  python main.py
